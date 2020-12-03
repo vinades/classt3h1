@@ -11,4 +11,4 @@ Bài: Xây dựng module https://github.com/nguyenvana/tenmodule
 Yêu cầu: Tạo các kho code nhập đúng địa chỉ kho code, Tạo pull requests nội dung file ghi chú Hoàn thiện trước 9h
 
 Câu 1 (95 điểm):
-Xây dựng giao diện trong file đính kèm 
+Xây dựng giao diện trong file: https://github.com/vinades/classt3h1/blob/main/DethiT3h.pdf
