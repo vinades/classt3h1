@@ -12,3 +12,5 @@ Yêu cầu: Tạo các kho code nhập đúng địa chỉ kho code, Tạo pull 
 
 Câu 1 (95 điểm):
 Xây dựng giao diện trong file: https://github.com/vinades/classt3h1/raw/main/DethiT3h.pdf
+
+Yêu cầu: Có file hướng dẫn cài đặt và sử dụng module tạo bằng wiki của kho code
