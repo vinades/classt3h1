@@ -1,4 +1,4 @@
-# classt3h1
+# Để thi lập trình module
 
 Câu 1 (5 điểm):
 - Mỗi thí sinh đăng ký một tài khoản trên GitHub (https://github.com/). Fork Kho code này về tài khoản cá nhân
